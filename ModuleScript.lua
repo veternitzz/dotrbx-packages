@@ -1,1 +1,1 @@
--- WOO HOO IT WORKS
+print("Hello world")
